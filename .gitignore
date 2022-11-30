@@ -1,0 +1,16 @@
+# Dependencies
+.psci_modules
+bower_components
+node_modules
+AI
+AI/*
+auto
+auto/*
+non-npm
+non-npm/*
+jsonfilemaker/*
+
+
+# Generated files
+.psci
+output
