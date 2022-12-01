@@ -1,0 +1,1 @@
+[{"name":"tensorflow","version":"3.16.0","description":"An open-source machine learning framework.","repository":"https:\/\/github.com\/tensorflow\/tfjs.git","keyfiles":"tf.min.js","keywords":["WebGL","Machine Learning","Training"],"npm":"@tensorflow\/tfjs"}]

@@ -1,0 +1,1 @@
+[{"name":"plaid","version":"9.0.0","description":"A node.js client for the Plaid API","repository":"git+ssh:\/\/git@github.com\/plaid\/plaid-node.git","keyfiles":"plaid.js","keywords":["plaid","plaid.com"],"npm":"plaid"}]
