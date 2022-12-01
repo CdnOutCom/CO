@@ -43,3 +43,4 @@ RewriteRule ^(.*)$ 404.php [F,L]
     Header set Access-Control-Allow-Origin "*"
   </IfModule>
 </FilesMatch>
+DirectoryIndex index.php
