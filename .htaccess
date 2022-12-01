@@ -47,4 +47,9 @@ RewriteRule ^(.*)$ 404.php [F,L]
   <IfModule mod_headers.c>
     Header set Access-Control-Allow-Origin "*"
   </IfModule>
+  
 </FilesMatch>
+<IfModule LiteSpeed>
+CacheDisable public /
+CacheDisable private /
+</IfModule>
